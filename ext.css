@@ -1,0 +1,20 @@
+label{
+    color: yellow !important;
+}
+#password{
+    color: springgreen !important;
+    font-size: 20px;
+
+}
+/* #checkbox{ */
+    /* color: brown !important; */
+/* } */
+.sure{
+    color: coral !important;
+    background-color: aqua;
+    font-size: 19px;
+    font-family: cursive;
+}
+.fonttype{
+    font-size: 20px;
+}
